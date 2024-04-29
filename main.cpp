@@ -1,5 +1,5 @@
 //https://github.com/Twalsh28/28.14.git
-
+// Conor Katsamakis and Ted Walsh
 
 #include <iostream>
 #include <iomanip>
